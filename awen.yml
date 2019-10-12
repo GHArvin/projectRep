@@ -1,0 +1,5 @@
+data:
+  env: config-eureka-awen
+  user:
+    username: eureka-client-awen
+    password: awen
