@@ -1,5 +1,5 @@
 data:
-  env: config-eureka-dev
+  env: dev
   user:
-    username: eureka-client-user
-    password: 1291029102
+    username: awen
+    password: 1997-02-06
